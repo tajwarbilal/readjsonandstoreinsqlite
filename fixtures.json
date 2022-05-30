@@ -1,0 +1,1026 @@
+[
+  {
+    "fixture": {
+      "id": 8200955,
+      "referee": "True",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": 342,
+        "name": "Estadio Santa Laura-Universidad SEK",
+        "city": "Santiago de Chile"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 265,
+      "name": "Primera Division",
+      "country": "Chile",
+      "season": 2022,
+      "round": "Regular Season - 15"
+    },
+    "teams": {
+      "home": {
+        "id": 2321,
+        "name": "Union Espanola",
+        "winner": "None"
+      },
+      "away": {
+        "id": 2326,
+        "name": "Union La Calera",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "New"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 851214,
+      "referee": "M. Badawi",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": 1922,
+        "name": "Banc of California Stadium",
+        "city": "Los Angeles, California"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 254,
+      "name": "NWSL Women",
+      "country": "USA",
+      "season": 2022,
+      "round": "Regular Season - 4"
+    },
+    "teams": {
+      "home": {
+        "id": 18450,
+        "name": "Angel City",
+        "winner": "None"
+      },
+      "away": {
+        "id": 3003,
+        "name": "NJ/NY Gotham FC",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854138,
+      "referee": "J. Atagana",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "Robert R. Hermann Stadium",
+        "city": "St. Louis, Missouri"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 909,
+      "name": "MLS Next Pro",
+      "country": "USA",
+      "season": 2022,
+      "round": "Regular Season - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 18740,
+        "name": "St. Louis City II",
+        "winner": "None"
+      },
+      "away": {
+        "id": 18816,
+        "name": "San Jose Earthquakes II",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 857024,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "Football Federation Training Ground",
+        "city": "Willemstad"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 642,
+      "name": "Curaçao Sekshon Pagá",
+      "country": "Curacao",
+      "season": 2021,
+      "round": "Regular Season - 8"
+    },
+    "teams": {
+      "home": {
+        "id": 18794,
+        "name": "Jong Colombia",
+        "winner": "None"
+      },
+      "away": {
+        "id": 16456,
+        "name": "SITHOC",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859171,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": 1627,
+        "name": "Parque Palermo",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 269,
+      "name": "Segunda Division",
+      "country": "Uruguay",
+      "season": 2022,
+      "round": "2nd Phase - 6"
+    },
+    "teams": {
+      "home": {
+        "id": 2368,
+        "name": "Central Espanol",
+        "winner": "None"
+      },
+      "away": {
+        "id": 2373,
+        "name": "Miramar",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861889,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "None",
+        "city": "None"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 411,
+      "name": "Elite ONE",
+      "country": "Cameroon",
+      "season": 2022,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 5560,
+        "name": "Canon",
+        "winner": "None"
+      },
+      "away": {
+        "id": 5398,
+        "name": "APEJES Academy",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861890,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "None",
+        "city": "None"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 411,
+      "name": "Elite ONE",
+      "country": "Cameroon",
+      "season": 2022,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 10153,
+        "name": "Tonnerre",
+        "winner": "None"
+      },
+      "away": {
+        "id": 5405,
+        "name": "Fortuna Mfou",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861891,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "None",
+        "city": "None"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 411,
+      "name": "Elite ONE",
+      "country": "Cameroon",
+      "season": 2022,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 5410,
+        "name": "Stade Renard",
+        "winner": "None"
+      },
+      "away": {
+        "id": 16526,
+        "name": "Fauve Azur Elite",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861892,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "None",
+        "city": "None"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 411,
+      "name": "Elite ONE",
+      "country": "Cameroon",
+      "season": 2022,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 5404,
+        "name": "Feutcheu",
+        "winner": "None"
+      },
+      "away": {
+        "id": 5400,
+        "name": "Colombe",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861893,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "None",
+        "city": "None"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 411,
+      "name": "Elite ONE",
+      "country": "Cameroon",
+      "season": 2022,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 5407,
+        "name": "Les Astres",
+        "winner": "None"
+      },
+      "away": {
+        "id": 5564,
+        "name": "Panthère",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861894,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "None",
+        "city": "None"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 411,
+      "name": "Elite ONE",
+      "country": "Cameroon",
+      "season": 2022,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 5559,
+        "name": "Racing",
+        "winner": "None"
+      },
+      "away": {
+        "id": 5413,
+        "name": "Union Douala",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861895,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "None",
+        "city": "None"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 411,
+      "name": "Elite ONE",
+      "country": "Cameroon",
+      "season": 2022,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 5401,
+        "name": "Cotonsport",
+        "winner": "None"
+      },
+      "away": {
+        "id": 5408,
+        "name": "New Star",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861896,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "None",
+        "city": "None"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 411,
+      "name": "Elite ONE",
+      "country": "Cameroon",
+      "season": 2022,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 5402,
+        "name": "Dragon de Yaoundé",
+        "winner": "None"
+      },
+      "away": {
+        "id": 5399,
+        "name": "Avion Academy",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861897,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "None",
+        "city": "None"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 411,
+      "name": "Elite ONE",
+      "country": "Cameroon",
+      "season": 2022,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 4419,
+        "name": "Renaissance",
+        "winner": "None"
+      },
+      "away": {
+        "id": 5406,
+        "name": "Fovu Club",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861898,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "None",
+        "city": "None"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 411,
+      "name": "Elite ONE",
+      "country": "Cameroon",
+      "season": 2022,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 5557,
+        "name": "Bamboutos",
+        "winner": "None"
+      },
+      "away": {
+        "id": 5403,
+        "name": "Eding Sport",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861899,
+      "referee": "None",
+      "timezone": "UTC",
+      "date": "2022-05-30T00:00:00+00:00",
+      "timestamp": 1653868800,
+      "periods": {
+        "first": "None",
+        "second": "None"
+      },
+      "venue": {
+        "id": "None",
+        "name": "None",
+        "city": "None"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": "None"
+      }
+    },
+    "league": {
+      "id": 411,
+      "name": "Elite ONE",
+      "country": "Cameroon",
+      "season": 2022,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 5409,
+        "name": "PWD",
+        "winner": "None"
+      },
+      "away": {
+        "id": 5558,
+        "name": "Yafoot",
+        "winner": "None"
+      }
+    },
+    "goals": {
+      "home": "None",
+      "away": "None"
+    },
+    "score": {
+      "halftime": {
+        "home": "None",
+        "away": "None"
+      },
+      "fulltime": {
+        "home": "None",
+        "away": "None"
+      },
+      "extratime": {
+        "home": "None",
+        "away": "None"
+      },
+      "penalty": {
+        "home": "None",
+        "away": "None"
+      }
+    }
+  }
+]
